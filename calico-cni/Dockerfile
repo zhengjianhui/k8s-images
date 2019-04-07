@@ -1,2 +1,2 @@
-FROM quay.io/calico/cni:v3.1.3 
+FROM quay.io/calico/cni:v3.1.6
 MAINTAINER zjh 
